@@ -1,0 +1,11 @@
+[
+  {
+    "id": "4bc6f48d81138293",
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "price": 100,
+    "thumbnail": "ruta/imagen1.jpg",
+    "code": "ABC123",
+    "stock": 10
+  }
+]
